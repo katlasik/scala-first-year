@@ -1,0 +1,17 @@
+{
+  "name": "scala-first-year",
+  "version": "1.0.0",
+  "description": "The HTML Presentation Framework",
+  "scripts": {
+    "start": "http-server"
+  },
+  "author": {
+    "name": "Krzysztof Atłasik",
+    "email": "krzysztof.atlasik@protonmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hakimel/reveal.js.git"
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,41 @@
+.reveal .fragment-hidden:not(.visible) {
+    display: none;
+}
+
+.reveal pre {
+    box-shadow: none;
+}
+
+.reveal ul {
+    font-size: 0.8em;
+    position: absolute;
+    left: 0;
+}
+
+.reveal sub {
+    font-size: 0.4em;
+}
+
+.reveal .images img {
+    max-height: 6vh;
+}
+
+.reveal section img {
+    background: none;
+    border: none;
+    box-shadow: none;
+    height: 40vh;
+    margin: 10vh;
+}
+
+.reveal img.float {
+    float: right;
+}
+
+.reveal strong {
+    color: #ff2c2d;
+}
+
+.reveal video {
+    height: 40vh;
+}
